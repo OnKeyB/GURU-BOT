@@ -1,7 +1,8 @@
 {
   "name": "Anya-FORGER ",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://images.app.goo.gl/K2oCWoL3diyf1AN17",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfjn_08DNrHvlg3v6ERtOpNh1Eru5LimfsNg&usqp=CAU";
+  "repository": "https://github.com/Guru322/GURU-BOT",
   "logo": "https://i.imgur.com/gEj1qC6.jpeg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "GURU-bot-md", "GURU-bot"],
   "buildpacks": [
